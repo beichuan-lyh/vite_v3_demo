@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <h1>热烈的马！！！</h1>
-    <h1>雷克萨斯</h1>
+    <h1>雷克萨斯Ls</h1>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
